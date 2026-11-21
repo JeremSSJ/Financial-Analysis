@@ -11,10 +11,14 @@
             "id": "69f58b35a9adcfa1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "financedata/2026-11-17 - Il va décoller.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2026-11-17 - Il va décoller"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 475.5
   },
   "right": {
     "id": "e72aca2a4183969c",
@@ -181,8 +185,10 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "ae7895e1e2733014",
+  "active": "69f58b35a9adcfa1",
   "lastOpenFiles": [
+    "financedata/2026-07-21 - Il a fait +717% la dernière fois.md",
+    "financedata/2026-11-17 - Il va décoller.md",
     "bourseko/2026-09-28 - Investir dans les riches terres texanes.md",
     "bourseko/2026-11-08 - Faut-il investir dans BNP Paribas.md",
     "bourseko/2026-11-15 - Ce que nous faisons de notre cash.md",
@@ -207,8 +213,6 @@
     "bourseko/2026-08-20 - T2 2026 les mouvements des supers investisseurs anglo-saxons.md",
     "bourseko/2026-08-16 - Veolia faut-il investir dans le géant de l’eau et des déchets.md",
     "bourseko/2026-08-13 - Le grand retour d'Airbnb (enfin!).md",
-    "bourseko/2026-08-06 - SpaceX un retour sur Terre légitime.md",
-    "bourseko/2026-07-30 - Le monopole d’ASML est-il menacé par la Chine.md",
     "bourseko",
     "financedata"
   ]
