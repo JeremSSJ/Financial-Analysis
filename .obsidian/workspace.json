@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "financedata/2026-11-17 - Il va décoller.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-17 - Il va décoller"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -187,8 +187,10 @@
   },
   "active": "69f58b35a9adcfa1",
   "lastOpenFiles": [
-    "financedata/2026-07-21 - Il a fait +717% la dernière fois.md",
+    "README.md",
     "financedata/2026-11-17 - Il va décoller.md",
+    "CLAUDE.md",
+    "financedata/2026-07-21 - Il a fait +717% la dernière fois.md",
     "bourseko/2026-09-28 - Investir dans les riches terres texanes.md",
     "bourseko/2026-11-08 - Faut-il investir dans BNP Paribas.md",
     "bourseko/2026-11-15 - Ce que nous faisons de notre cash.md",
@@ -211,8 +213,6 @@
     "bourseko/2026-08-30 - Meta la plus risquée des GAFAM.md",
     "bourseko/2026-08-23 - Comprendre le retour en grâce des biotechs.md",
     "bourseko/2026-08-20 - T2 2026 les mouvements des supers investisseurs anglo-saxons.md",
-    "bourseko/2026-08-16 - Veolia faut-il investir dans le géant de l’eau et des déchets.md",
-    "bourseko/2026-08-13 - Le grand retour d'Airbnb (enfin!).md",
     "bourseko",
     "financedata"
   ]
