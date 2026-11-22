@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "equity-research cheat sheet.md",
-                "mode": "source",
+                "file": "market/idea-generation 2026-11-21.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "equity-research cheat sheet"
+              "title": "idea-generation 2026-11-21"
             }
           }
         ]
@@ -187,8 +187,10 @@
   },
   "active": "61064946c2f4bfbe",
   "lastOpenFiles": [
-    "CLAUDE.md",
     "equity-research cheat sheet.md",
+    "market/idea-generation 2026-11-21.md",
+    "market",
+    "CLAUDE.md",
     "README.md",
     "financedata/2026-11-17 - Il va décoller.md",
     "financedata/2026-07-21 - Il a fait +717% la dernière fois.md",
@@ -212,7 +214,6 @@
     "bourseko/2026-09-10 - EssilorLuxottica faut-il profiter de la baisse.md",
     "bourseko/2026-09-06 - Nvidia, Hugging Face et le pari des modèles ouverts.md",
     "bourseko/2026-08-30 - Meta la plus risquée des GAFAM.md",
-    "bourseko/2026-08-23 - Comprendre le retour en grâce des biotechs.md",
     "bourseko",
     "financedata"
   ]
